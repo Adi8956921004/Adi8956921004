@@ -9,7 +9,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
+  <a href="mailto:adityashendge1221@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/_aditya_shendge_">
@@ -23,10 +23,10 @@
 
 ## 💫 About Me
 
-I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I’m **Aditya Shendge**, a passionate Full Stack Developer, data analysis , and Data science with hands-on experience in building scalable web applications,  and working on real-world problem-solving systems.
 
-- 🏢 I currently work as a **Mentor & Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
-- 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
+- 🏢 I currently work at a **Aither shild tech**, As **automation developer intern** where I focus on practical automation development, architecture clarity, and industry-ready skills.
+
 
 ### 💻 What I Do
 - 🌐 Full Stack Web Development (Frontend & Backend)
